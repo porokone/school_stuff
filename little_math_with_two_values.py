@@ -1,6 +1,6 @@
-# This program asks the user two inputs, saves them as integer and prints sum, difference, product and quotient.
-value_1 = int(input("Enter first value: "))
-value_2 = int(input("Enter second value: "))
+# This program asks the user two inputs, saves them as float and prints sum, difference, product and quotient.
+value_1 = float(input("Enter first value: "))
+value_2 = float(input("Enter second value: "))
 print("The sum of values is ", value_1 + value_2)
 print("The difference of values is ", value_1 - value_2)
 print("The product of values is ", value_1 * value_2)
